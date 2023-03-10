@@ -8,7 +8,7 @@ The profile card component showcases a background image and a content section th
 
 ### Live Demo 🚀
 
-You can view the live demo of the project [here](https://column-card.kkhwjnrk.vercel.app/).
+You can view the live demo of the project [here](https://column-card.kkhwjnrk.vercel.app).
 
 ### Credits 💻
 
