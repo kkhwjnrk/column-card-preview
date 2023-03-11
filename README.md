@@ -4,7 +4,7 @@
 
 ### Design 🎨
 
-The profile card component showcases a background image and a content section that displays the user's profile image, name, age, and location. The component also includes a social statistics section showcasing the user's follower count, number of likes, and photos. For an example, please visit the [Mobile](./design/mobile-design.jpg) and [Desktop design](./design/desktop-design.jpg).
+For an example, please visit the [Mobile](./design/mobile-design.jpg) and [Desktop design](./design/desktop-design.jpg).
 
 ### Live Demo 🚀
 
